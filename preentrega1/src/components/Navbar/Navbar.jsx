@@ -1,4 +1,4 @@
-import "./Header.css";
+import "./Navbar.css";
 import img from "./LogotipoSF.png";
 import 'bootstrap/dist/css/bootstrap.min.css';
 

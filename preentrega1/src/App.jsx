@@ -1,11 +1,11 @@
 import './App.css'
-import Header from './components/Header/Header'
+import Navbar from './components/Navbar/Navbar'
 import CardUser from './components/CardUser/CardUser'
 
 const App = () => {
   return (
     <div>
-    <Header />
+    <Navbar />
     <div className='UserSection'>
       <CardUser 
       name="Josefina Cardeilhac"

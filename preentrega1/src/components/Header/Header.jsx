@@ -5,12 +5,17 @@ const Header = () => {
     return (
         <div className="Header">
             <img src={img} alt="" />
-          <h1>
-            Title
-          </h1>
-          <h2>
-            subtitle
-          </h2>
+            <ul>
+                            <li>
+                                <a>Home</a>
+                            </li>
+                            <li>
+                                <a>Productos</a>
+                            </li>
+                            <li>
+                                <a>Contactanos</a>
+                            </li>
+                        </ul>
             </div>
     );
 }

@@ -12,7 +12,10 @@
     margin-right: 10px; 
   }
 
-.Header h1,
-h2{
-    color: aliceblue;
+.Header li{
+    display:inline-block;
+    text-align: center;
+    margin: 30px;
+    margin-left: 150px;
+    margin-top: 80px;
 }

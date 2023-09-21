@@ -6,16 +6,17 @@
     width: 100%; 
     
 }
- 
-.Header img {
-    width: 14vh; 
-    margin-right: 10px; 
-  }
 
-.Header li{
-    display:inline-block;
-    text-align: center;
-    margin: 30px;
-    margin-left: 150px;
-    margin-top: 80px;
-}
+.HeaderNav img {
+    width: 16vh;
+    margin-right: 10px; /* Cambié el valor para que sea más visible */
+  }
+  
+  .HeaderNav {
+    display: flex;
+    background-color: #a0f8a0;
+    height: 15%;
+    width: 100%;
+  }
+  
+  

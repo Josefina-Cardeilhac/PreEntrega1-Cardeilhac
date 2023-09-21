@@ -1,0 +1,18 @@
+.Header{
+    display: flex;
+    text-align: center;
+    background-color: #a0f8a0;
+    height: 15%;
+    width: 100%; 
+    
+}
+ 
+.Header img {
+    width: 14vh; 
+    margin-right: 10px; 
+  }
+
+.Header h1,
+h2{
+    color: aliceblue;
+}

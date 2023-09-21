@@ -12,6 +12,20 @@ const App = () => {
       date ="Se unio en Marzo 2012"
       description= "nkjfnklfnlk"
       img="http://react.semantic-ui.com/images/avatar/large/elliot.jpg"/>
+
+<CardUser 
+      name="Josefina Cardeilhac"
+      date ="Se unio en Marzo 2012"
+      description= "nkjfnklfnlk"
+      img="http://react.semantic-ui.com/images/avatar/large/elliot.jpg"/>
+      
+
+      <CardUser 
+      name="Josefina Cardeilhac"
+      date ="Se unio en Marzo 2012"
+      description= "nkjfnklfnlk"
+      img="http://react.semantic-ui.com/images/avatar/large/elliot.jpg"/>
+      
       
     </div>
     </div>
